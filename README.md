@@ -18,3 +18,7 @@
 # Run
 
 `npm start`
+
+todo:
+
+- add user name and deleteing to comments
